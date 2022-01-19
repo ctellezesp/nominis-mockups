@@ -10,10 +10,11 @@
 - Taildwindcss
 - react-responsive
 - github-pages
+- jest
 
 ## Testing
 
-I write one testing function at `App.test.tsx`, in order to run the test execute `npm run test``
+I write one testing function at `App.test.tsx`, in order to run the test execute `npm run test`
 
 ## Information
 
