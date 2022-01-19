@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nominis-mockups/static/css/main.b14728f8.css",
+    "main.js": "/nominis-mockups/static/js/main.c1439b48.js",
+    "static/js/787.3b117bc4.chunk.js": "/nominis-mockups/static/js/787.3b117bc4.chunk.js",
+    "static/media/desktop-background.png": "/nominis-mockups/static/media/desktop-background.500d991d4c0c5959d852.png",
+    "static/media/mobile-background.png": "/nominis-mockups/static/media/mobile-background.104c7b5b2d210052f483.png",
+    "static/media/nominis-logo.png": "/nominis-mockups/static/media/nominis-logo.bb3a1aaf8df8aa8555f9.png",
+    "static/media/icon-1.png": "/nominis-mockups/static/media/icon-1.32b9a6ddb3c86589f2c6.png",
+    "static/media/icon-3.png": "/nominis-mockups/static/media/icon-3.2b560f5af37cf42a59aa.png",
+    "index.html": "/nominis-mockups/index.html",
+    "main.b14728f8.css.map": "/nominis-mockups/static/css/main.b14728f8.css.map",
+    "main.c1439b48.js.map": "/nominis-mockups/static/js/main.c1439b48.js.map",
+    "787.3b117bc4.chunk.js.map": "/nominis-mockups/static/js/787.3b117bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14728f8.css",
+    "static/js/main.c1439b48.js"
+  ]
+}
